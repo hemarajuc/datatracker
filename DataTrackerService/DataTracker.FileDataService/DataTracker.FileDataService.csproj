@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataTracker.Models\DataTracker.Models.csproj" />
+    <ProjectReference Include="..\DataTrackerService\DataTrackerService.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="TrackingInfo\TrackerDataFoo1.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TrackingInfo\TrackerDataFoo2.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

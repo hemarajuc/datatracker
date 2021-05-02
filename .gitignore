@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataTrackerService/DataTracker.FileDataService/obj
+/DataTrackerService/DataTracker.FileDataService/bin/Debug/net5.0
+/.vs/datatracker/v16/TestStore/0
+/DataTrackerService/DataTrackerService/obj
+/DataTrackerService/DataTrackerService/bin/Debug/net5.0
+/DataTrackerService/DataTrackerService.Tests/obj
+/DataTrackerService/DataTrackerService.Tests/bin/Debug/net5.0
+/DataTrackerService/TestDataAggregator/obj
+/DataTrackerService/TestDataAggregator/bin/Debug/net5.0
+/DataTrackerService/DataTracker.Models/obj
+/DataTrackerService/DataTracker.Models/bin/Debug/net5.0
